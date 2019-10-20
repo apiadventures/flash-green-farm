@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Flash Green Farm
 image: /img/img_0449.jpg
-heading: Great coffee with a conscience
+heading: Flash Green Farm, Higher Wheelton
 subheading: Higher Wheelton
 mainpitch:
   title: 1776 Farmhouse
