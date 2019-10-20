@@ -1,20 +1,11 @@
 ---
 templateKey: product-page
 title: Our Services
-image: /img/jumbotron.jpg
+image: /img/img_0449.jpg
 heading: Horse Rug Services
 description: Clean my horse rug off offers a range of services
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: |
-        Rugs : 
-    - image: /img/coffee-gear.png
-      text: 'Numnahs :'
-    - image: /img/tutorials.png
-      text: Other stuff
-    - image: /img/meeting-space.png
-      text: Dog Bedding
+  blurbs: []
   heading: What we offer
   description: Clean my horse rug off offers a range of services
 main:
@@ -26,23 +17,17 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/img_0449.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/img_0449.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: horses
+    image: /img/img_0449.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: 'Sam, Leylan'
+    quote: Claire is awesome
+full_image: /img/img_0449.jpg
 pricing:
   heading: Prices
   description: Here is our current price list
@@ -54,19 +39,5 @@ pricing:
         - One or two varieties of beans"
       plan: Rugs
       price: '26'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
 
